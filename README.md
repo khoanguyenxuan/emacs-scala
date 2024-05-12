@@ -1,4 +1,11 @@
 # Emacs scala setup
+## Dependencies
+- Doom theme
+- Doom modeline
+- Magit
+- Treemacs
+- Scala metals
+- Ivy
 ## Install fonts
 Download an install fonts
 
