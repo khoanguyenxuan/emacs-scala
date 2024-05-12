@@ -7,7 +7,7 @@
 - [Scala metals](https://scalameta.org/metals/docs/editors/emacs/)
 - [Ivy](https://github.com/abo-abo/swiper)
 ## Install fonts
-Download an install fonts
+Download and install fonts
 
 Nerd fonts `M-x nerd-icons-install-fonts`
 
