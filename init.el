@@ -7,7 +7,7 @@
   (package-install 'use-package))
 (require 'use-package)
 
-; Themes
+; Doom themes
 (use-package all-the-icons)
 (use-package doom-themes
   :ensure t
