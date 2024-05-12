@@ -1,4 +1,4 @@
-# Emacs scala setup
+# Emacs scala
 ## Dependencies
 - [Doom theme](https://github.com/doomemacs/themes)
 - [Doom modeline](https://github.com/seagle0128/doom-modeline)
