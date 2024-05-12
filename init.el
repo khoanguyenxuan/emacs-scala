@@ -248,8 +248,6 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(org-agenda-files '("~/dev/notes/org.org"))
- '(org-deadline-warning-days 1)
  '(package-selected-packages
    '(dap-mode posframe company yasnippet lsp-ui lsp-metals lsp-mode flycheck sbt-mode scala-mode)))
 (set-face-attribute 'default nil :height 140)
