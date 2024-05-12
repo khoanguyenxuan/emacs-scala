@@ -1,11 +1,11 @@
 # Emacs scala setup
 ## Dependencies
-- Doom theme
-- Doom modeline
-- Magit
-- Treemacs
-- Scala metals
-- Ivy
+- [Doom theme](https://github.com/doomemacs/themes)
+- [Doom modeline](https://github.com/seagle0128/doom-modeline)
+- [Magit](https://github.com/magit/magit)
+- [Treemacs](https://github.com/Alexander-Miller/treemacs)
+- [Scala metals](https://scalameta.org/metals/docs/editors/emacs/)
+- [Ivy](https://github.com/abo-abo/swiper)
 ## Install fonts
 Download an install fonts
 
